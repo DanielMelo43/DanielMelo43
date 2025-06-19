@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Daniel Batista de melo, tenho 20 anos e sou natural de Pernambuco. Concluí o ensino médio na ETE Pastor Isaac Martins Rodrigues, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR. Acho fascinante tecnologia e estou estudando para me tornar um proficional na área de Programação.
+Me chamo Daniel Batista de Melo, tenho 20 anos e sou natural de Pernambuco. Concluí o ensino médio na ETE Pastor Isaac Martins Rodrigues, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR. Acho fascinante tecnologia e estou estudando para me tornar um proficional na área de Programação.
 
 ---
 ### Rede social
